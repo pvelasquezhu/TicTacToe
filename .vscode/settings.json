@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/Users/pvelasquez/Downloads/TicTacToe/TicTacToe"
+    "cmake.sourceDirectory": "C:/Users/pvelasquez/Downloads/TicTacToe/TicTacToe",
+    "C_Cpp.default.compilerPath": "c:\\Users\\pvelasquez\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
 }

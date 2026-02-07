@@ -10,7 +10,8 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "configurationProvider": "ms-vscode.cmake-tools"
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compilerPath": "C:\Users\pvelasquez\AppData\Local\Programs\MicrosoftVSCode\Code.exe"
         }
     ],
     "version": 4
